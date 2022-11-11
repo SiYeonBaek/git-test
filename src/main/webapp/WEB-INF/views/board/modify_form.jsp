@@ -33,7 +33,6 @@
 					f.pwd.focus();
 					return false;
 				}
-				if(f.pwd.value == '')
 				
 				f.submit();
 			}
